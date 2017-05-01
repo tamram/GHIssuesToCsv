@@ -19,7 +19,7 @@ Configure the script to run with your username, token and repository:
  * Right click ``GHIssuesToCsv.ps1`` and select *Edit...*
  * Set ``$Repo_Path=`` to the container and the name of the repository you want to export the issues for 
  * Set ``$Authentication_User`` to your GitHub username 
- * Set ``$Authentication_Token`` to a GitHub token (password) you can create using the [New token]( https://github.com/settings/tokens/new) section of your user preferences. Note that you do **NOT** need to activate any scope, as the script will run fine with a standard token. 
+ * Set ``$Authentication_Token`` to a GitHub token (password) you can create using the [New token]( https://github.com/settings/tokens/new) section of your user preferences. You only need to activate the scope *REPO* if you want to access a private repository. For public repositories, no scope is needed.  
  * Save the file
  * Execute ``_Start.bat`` and the script will run
  * When everything works, you’ll find the CSV file in the same folder as `` IssuesExport.csv``
