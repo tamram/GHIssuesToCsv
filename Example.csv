@@ -1,0 +1,14 @@
+﻿Number;Title;State;Labels;CreationDate;LastUpdateDate;CloseDate;Locked;URL;Creator;CreatorURL;AssignedTo;AssignedToURL;MilestoneNumber;MilestoneTitle;MilestoneState;MilestoneURL
+
+"6";"Test Issue #6 - Closed";"closed";"";"2017-05-01T09:39:04Z";"2017-05-01T09:39:06Z";"2017-05-01T09:39:06Z";"False";"https://github.com/texhex/GHIssuesToCsv/issues/6";"texhex";"https://github.com/texhex";"";"";"";"";"";""
+
+"5";"Test Issue #5 - Assignee set";"open";"";"2017-05-01T09:38:47Z";"2017-05-01T09:38:47Z";"";"False";"https://github.com/texhex/GHIssuesToCsv/issues/5";"texhex";"https://github.com/texhex";"texhex";"https://github.com/texhex";"";"";"";""
+
+"4";"Test Issue #4 - Milestone set";"open";"";"2017-05-01T09:38:21Z";"2017-05-01T09:38:21Z";"";"False";"https://github.com/texhex/GHIssuesToCsv/issues/4";"texhex";"https://github.com/texhex";"";"";"1";"Test Milestone";"open";"https://github.com/texhex/GHIssuesToCsv/milestone/1"
+
+"3";"Test Issue #3 - Labels set";"open";"enhancement; question;";"2017-05-01T09:37:10Z";"2017-05-01T09:37:10Z";"";"False";"https://github.com/texhex/GHIssuesToCsv/issues/3";"texhex";"https://github.com/texhex";"";"";"";"";"";""
+
+"2";"Test Issue #2 - No additonal data";"open";"";"2017-05-01T09:36:29Z";"2017-05-01T09:42:31Z";"";"False";"https://github.com/texhex/GHIssuesToCsv/issues/2";"texhex";"https://github.com/texhex";"";"";"";"";"";""
+
+"1";"D'oh!";"open";"";"2017-05-01T09:36:10Z";"2017-05-01T09:36:10Z";"";"False";"https://github.com/texhex/GHIssuesToCsv/issues/1";"texhex";"https://github.com/texhex";"";"";"";"";"";""
+
